@@ -1,4 +1,4 @@
-# software-project
+# EduCloud
 
 * To start
 
